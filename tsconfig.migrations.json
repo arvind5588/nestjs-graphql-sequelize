@@ -1,0 +1,6 @@
+{
+    "extends": "./tsconfig.json",
+    "include": [
+      "migrations/*.js"  // Adjust the path as per your project structure
+    ]
+  }
